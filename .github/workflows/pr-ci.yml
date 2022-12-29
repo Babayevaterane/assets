@@ -1,4 +1,4 @@
-name: Pull Request CI
+BABAYEVA name: Pull Request CI
 on:
   push:
     branches:
