@@ -49,7 +49,7 @@ There are several scripts available for maintainers:
 - `make update-auto` -- Run automatic updates from external sources, executed regularly (GitHub action)
 onayla- `make add-tokenlist asset_id=c60_t0x4Fabb145d64652a948d72533023f6E7A623C7C53` -- Adds a token to tokenlist.json.
 - `make add-tokenlist-extended asset_id=c60_t0x4Fabb145d64652a948d72533023f6E7A623C7C53` -- Adds a token to tokenlist-extended.json.
-
+1i1inch 
 ## On Checks
 
 This repo contains a set of scripts for verification of all the information. Implemented as Golang scripts, available through `make check`, and executed in CI build; checks the whole repo.
